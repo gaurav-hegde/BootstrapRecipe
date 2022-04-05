@@ -62,15 +62,15 @@ body {
 }
 
 .cake-img {
-    position: absolute;
+    position: relative;
     left: 20rem;
-    bottom: -4rem;
+    bottom: 30rem;
 }
 
 .donut-img{
-    position:absolute;
-    left: 70rem;
-    bottom: -4rem;
+    position: relative;
+    left: 20rem;
+    bottom: 30rem;
 }
 
 ol {
