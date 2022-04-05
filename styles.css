@@ -1,0 +1,122 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.ellipse0 {
+    width: 50%;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 40rem;
+    top: -28rem;
+}
+
+.container {
+    margin-left: 1rem;
+}
+.navbar {
+    padding: 2rem 1rem;
+}
+
+.ellipse1 {
+    width:50%;
+}
+
+.title {
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+}
+
+.big-heading {
+    padding: 2rem 2rem 1rem 2rem;
+}
+
+.small-heading {
+    padding: 0rem 2rem 2rem 2rem;
+}
+
+.title-image {
+    width: 30em;
+    position: relative;
+    left: 10%;
+    top: 21%;
+}
+
+.header {
+    background-color: #ffe6e6;  
+}
+
+.recipes {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.recipe-title, .tricks-title {
+    padding-left: 18rem;
+}
+
+.cake, .donut {
+    background-color: #ffe6e6;
+    width: 27rem;
+    padding: 2rem 2rem 1rem 2rem;
+    border-radius: 1rem;
+}
+
+.cake-img {
+    position: absolute;
+    left: 20rem;
+    bottom: -4rem;
+}
+
+.donut-img{
+    position:absolute;
+    left: 70rem;
+    bottom: -4rem;
+}
+
+ol {
+    padding-left: 1.5rem;
+}
+
+.ellipse2 {
+    height: 50%;
+    transform: rotate(180deg);
+    position: relative;
+    top: 6rem;
+}
+
+.tricks {
+    background-color: #ffe6e6;
+    padding-top: 5rem;
+    padding-bottom: 4rem;
+}
+
+.ol2 {
+    padding-left: 15rem;
+}
+
+.tricks-pic {
+    position: relative;
+    top: 4rem;
+}
+
+hr {
+    position: relative;
+    left: 2.5rem;
+    width: 25%;
+    size: 4px;
+    background-color: #ff9999;
+}
+
+.footer {
+    padding: 5rem 0rem 4rem 16rem;
+    color: white;
+    background-color: #3f3f3f;
+}
+
+.about {
+    padding-right: 5rem;
+}
+
+.icons {
+    padding-right: 1rem;
+}
