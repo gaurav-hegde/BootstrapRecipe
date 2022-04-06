@@ -133,6 +133,20 @@ hr {
     }
 }
 
+@media (max-width: 1200px) {
+    .ellipse0, .ellipse1, .ellipse2 {
+        display: none;
+    }
+    .title-image {
+        width: 25em;
+    }
+}
+
+@media (max-width: 990) {
+    .title-image {
+        width: 10em;
+    }
+}
 /* * {
     background: #000 !important;
     color: #0f0 !important;
