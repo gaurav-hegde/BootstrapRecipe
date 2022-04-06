@@ -17,6 +17,10 @@ body {
     padding: 2rem 1rem;
 }
 
+.col-lg-2 {
+    padding-left: 0;
+}
+
 .ellipse1 {
     width:50%;
 }
@@ -121,6 +125,12 @@ hr {
 
 .icons {
     padding-right: 1rem;
+}
+
+@media  (max-width: 1490px)  {
+    .cake-img, .donut-img {
+        display: none;
+    }
 }
 
 /* * {
