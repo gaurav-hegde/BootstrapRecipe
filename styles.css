@@ -108,9 +108,10 @@ hr {
 }
 
 .footer {
-    padding: 5rem 0rem 4rem 16rem;
+    padding: 5rem 2rem 4rem 16rem;
     color: white;
     background-color: #3f3f3f;
+    margin: 0;
 }
 
 .about {
