@@ -59,17 +59,18 @@ body {
     width: 27rem;
     padding: 2rem 2rem 1rem 2rem;
     border-radius: 1rem;
+    margin: 0;
 }
 
 .cake-img {
     position: relative;
-    left: 20rem;
+    left: 40rem;
     bottom: 30rem;
 }
 
 .donut-img{
     position: relative;
-    left: 20rem;
+    left: 60rem;
     bottom: 30rem;
 }
 
